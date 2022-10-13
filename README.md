@@ -3,7 +3,7 @@
 ### Sobre
 
 Olá, eu me chamo Pedro e estou iniciando no desenvolvimento Front-End.
-Eu sou formado em Ciência da Computação, tenho vasta experiência no setor de Infraestrutura, porém agora estou migrando para a área de Desenvolvimento, e este é meu primeiro Portfólio.
+Eu sou formado em Ciência da Computação, tenho vasta experiência no setor de Infraestrutura, porém agora estou migrando para a área de Desenvolvimento, e este é meu primeiro commit utilizando Git e GitHub .
 
 #### Let's Go! :computer:
 
