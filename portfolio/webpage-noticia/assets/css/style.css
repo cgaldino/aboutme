@@ -1,0 +1,87 @@
+body{
+    background-color: white;
+    margin: 0px;
+    font-family: opensans,helvetica,arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    width: 100%;
+}
+#cabecalho h1{
+        display: inline-block;
+        color: #333;
+        text-align: justify;
+        width: 70vw;
+        font-size: 3rem;
+}
+.subtitulo{
+    display: inline-block;
+    color: #333;
+    text-align: justify;
+    width: 70vw;
+    font-size: 2rem;
+}
+.editor{
+    display: inline-block;
+    color: rgba(51, 51, 51, 0.719);
+    text-align: justify;
+    width: 70vw;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.data{
+    display: inline-block;
+    color: rgba(51, 51, 51, 0.514);
+    text-align: justify;
+    width: 70vw;
+    font-size: 0.7rem;
+}
+.contato{
+    display: inline-block;
+    text-align: justify;
+    width: 70vw;
+}
+.contato img{
+    margin-right: 5px;
+}
+
+#topbar{
+    width: 100vw;
+    background-color: #333;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 2rem;
+    font-weight: bold;
+    border-bottom: 7px solid #fd8a24;
+}
+
+.linkleia{
+    color: #fd8a24;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: justify;
+    width: 50vw;
+    font-size: 1rem;
+    display: inline-block;
+}
+.textomateria{
+    display: inline-block;
+    color: #333;
+    text-align: justify;
+    width: 50vw;
+    font-size: 2rem;
+}
+body h2{
+    display: inline-block;
+    color: #333;
+    text-align: justify;
+    width: 50vw;
+    font-size: 2rem;
+}
+.rodape{
+    width: 100vw;
+    background-color: #333;
+    padding-top: 100px;
+    padding-bottom: 1px;
+    border-top: 7px solid #fd8a24;
+}
