@@ -1,0 +1,189 @@
+html,
+body {
+    margin: 0;
+}
+
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+
+.menu {
+    width: 15%;
+    background-color: #ee0b19;
+    padding: 20px 40px 0px;
+}
+
+.menu ul a:link,
+a:visited,
+a:active {
+    color: black;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 2%;
+    text-decoration: none;
+}
+
+.menu ul a:hover {
+    color: white;
+}
+
+.header {
+    background-color: #DFDFDF;
+    min-height: 80px;
+}
+
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #1f1e1e;
+    min-height: 150px;
+}
+
+body .header svg {
+    float: right;
+    background: #ffffff00;
+    border-radius: 8px;
+    margin: 4px;
+    margin-right: 2%;
+    margin-top: 2px;
+}
+
+body .header h2 {
+    float: left;
+    background: #ffffff00;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.footer iframe {
+    width: 360px;
+    float: right;
+    background: #ffffff00;
+    border-radius: 15px;
+    margin: 10px 10px 10px 10px;
+}
+
+.footer ul {
+    margin: 25% 10px 10px 10px;
+    float: left;
+}
+
+.footer ul a    ,
+a:visited,
+a:active {
+    color: #a3a3a3;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.footer ul a:hover {
+    color: white;
+}
+
+.footer p {
+    margin: 10px 10px 10px 10px;
+    float: left;
+    color: #a3a3a3;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 10px;
+
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    list-style: none;
+}
+
+body .header img {
+    float: right;
+    background: #ffffff00;
+    border-radius: 8px;
+    margin: 4px;
+    margin-right: 0%;
+    margin-top: 0px;
+}
+
+.content table {
+    width: 950px;
+
+}
+
+.content table thead tr th {
+    background-color: #ee0b1a3b;
+    color: black;
+}
+
+.content table thead tr td {
+    background-color: black;
+    color: white;
+}
+
+.content table tbody tr:nth-child(odd) {
+    background-color: #87878723;
+}
+
+.content table tbody tr:nth-child(even) {
+    background-color: #34343423;
+}
+
+.content table tbody tr:hover td {
+    background-color: #1f1e1e3a;
+}
+
+.content table tfoot {
+    background-color: #1f1e1e3a;
+    color: black;
+}
+
+.content form input {
+    width: 12%;
+    margin: 2px;
+    box-sizing: border-box;
+}
+
+.content ul {
+    float: left;
+}
+
+.content ul a,
+a:visited,
+a:active {
+    color: #1f1e1e;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+.content ul li {
+    color: #ee0b19;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
